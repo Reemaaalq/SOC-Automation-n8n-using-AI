@@ -1,1 +1,1 @@
-# SOC-Automation-n8n-using-AI
+# SOC-Automation-n8n-using AI

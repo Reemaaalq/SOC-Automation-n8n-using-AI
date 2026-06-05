@@ -109,6 +109,7 @@ From raw Splunk alert to Slack notification and TheHive case in **under 60 secon
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
+<img width="1115" height="522" alt="image" src="https://github.com/user-attachments/assets/e43c772b-ecb6-4b39-bc07-8fbda2f2483c" />
 
 ### End-to-End Data Flow
 
@@ -145,7 +146,12 @@ Splunk Correlation Search Fires
      • Recommended actions          • Observable: src IP / hash
      • Link to TheHive case         • Analyst task auto-created
 ```
-
+<img width="1872" height="906" alt="image" src="https://github.com/user-attachments/assets/e7ed7ed4-e712-47a4-95b3-ba724bad2dce" />
+> alerts on splunk
+<img width="1845" height="737" alt="image" src="https://github.com/user-attachments/assets/4bb79ced-426f-4d03-b1af-42c976cc39c0" />
+> Findings sent to Slack
+<img width="1912" height="871" alt="image" src="https://github.com/user-attachments/assets/0da15da9-28a6-4d88-8989-d1d27d827363" />
+> Case created in TheHive
 ### Infrastructure Diagram
 
 ```

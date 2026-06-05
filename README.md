@@ -109,7 +109,8 @@ From raw Splunk alert to Slack notification and TheHive case in **under 60 secon
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
-<img width="1115" height="522" alt="image" src="https://github.com/user-attachments/assets/e43c772b-ecb6-4b39-bc07-8fbda2f2483c" />
+<img width="1161" height="537" alt="image" src="https://github.com/user-attachments/assets/0df97ba3-6420-48ff-b7f9-29cb424759d3" />
+
 
 ### End-to-End Data Flow
 
